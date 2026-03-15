@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//Задача_1
+#include <iostream>
 #include <ctime>
 #include <cstdlib>
 using namespace std;
