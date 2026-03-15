@@ -1,4 +1,5 @@
-﻿#include <iostream>
+Задача_2
+#include <iostream>
 #include <cstring> 
 #include <clocale>  
 #include <cstdlib>
